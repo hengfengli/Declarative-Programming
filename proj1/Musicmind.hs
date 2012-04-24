@@ -1,7 +1,5 @@
 --  File     : musicmind.hs
 --  Author   : Hengfeng Li
---  CSSElogin: henli
---  Student# : 383606
 --  Purpose  : a MusicMind game
 module Musicmind 
 (initialGuess,
