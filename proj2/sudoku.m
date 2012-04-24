@@ -1,7 +1,5 @@
 %  File      : sudoku.m
 %  Author    : Hengfeng Li
-%  CSSE login: henli
-%  Student#  : 383606
 %  Purpose   : This mercury program mainly solve the sudoku puzzle
 %   by combining three different strategies to figure out those 
 %   unfinished element. The first strategy is to check each element
